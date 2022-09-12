@@ -1,0 +1,31 @@
+.container{
+    background-image: linear-gradient(rgb(14, 14, 137), rgb(63, 95, 223));
+}
+.nav-text{
+    position: relative;
+    left:10%;
+}
+ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+}
+ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: aliceblue;
+}
+.first{
+    border-radius: 20px !important;
+}
+input{
+    border: 1px solid black !important;
+    /* border-color: 1px solid black; */
+}
+#dropdown{
+    width: 285px;
+    height: 35px;
+}
+#table{
+    line-height: 50px !important;
+}
